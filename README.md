@@ -15,7 +15,7 @@ Es würde uns sehr freuen wenn wir den ein oder anderen bei uns wiederfinden wü
 Zurzeit haben wir keine anstehenden Projekte! Du kannst das aber ändern und uns einfach einen Vorschläg auf unserem Discord-Server oder per DM an Fledermaus68ツ#9999 
 schicken.
 
-#### Disclaimer
+### Disclaimer
 
 Du darfst alle Sourcecodes frei für deine Bots benutzen.
 Es wäre cool, wenn du den RaW Discord-Server irgendwo erwähnen oder den Server boosten würdest.
