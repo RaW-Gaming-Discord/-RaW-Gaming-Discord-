@@ -7,7 +7,7 @@
 
 **Hallo!**
  
-in dieser Gruppe werden verschiedenste Projekte vom Discord-Team veröffentlich und kostenlos Open-Source zur Verfügnung gestellt!
+in dieser Gruppe werden verschiedenste Projekte vom **RaW Discord-Team** veröffentlicht und kostenlos Open-Source zur Verfügnung gestellt!
 Es würde uns sehr freuen wenn wir den ein oder anderen bei uns wiederfinden würden!
 
 ### Anstehende Projekte
