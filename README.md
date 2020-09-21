@@ -1,3 +1,2 @@
 # -RaW-Gaming-Discord-
-![alt text][logo]
-[logo]: https://discord.gg/S8Z77aS "Discord-Server"
+![Discord Shield](https://discordapp.com/api/guilds/630183489915977756/widget.png?style=shield)
