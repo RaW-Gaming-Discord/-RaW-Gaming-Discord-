@@ -3,19 +3,19 @@
 
 
 
-## Einleitung
+## *Einleitung*
 
 **Hallo!**
  
 in dieser Gruppe werden verschiedenste Projekte vom **RaW Discord-Team** veröffentlicht und kostenlos Open-Source zur Verfügnung gestellt!
 Es würde uns sehr freuen wenn wir den ein oder anderen bei uns wiederfinden würden!
 
-### Anstehende Projekte
+### *Anstehende Projekte*
 
-Zurzeit haben wir keine anstehenden Projekte! Du kannst das aber ändern und uns einfach einen Vorschläg auf unserem Discord-Server oder per DM an Fledermaus68ツ#9999 
+Zurzeit haben wir keine anstehenden Projekte! Du kannst das aber ändern und uns einfach einen Vorschläg auf unserem **Discord-Server** oder per DM an **Fledermaus68ツ#9999** 
 schicken.
 
-### Disclaimer
+### *Disclaimer*
 
 Du darfst alle Sourcecodes frei für deine Bots benutzen.
 Es wäre cool, wenn du den RaW Discord-Server irgendwo erwähnen oder den Server boosten würdest.
